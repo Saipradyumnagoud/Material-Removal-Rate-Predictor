@@ -1,5 +1,4 @@
-# Material-Removal-Rate-Predictor# Material Removal Rate Predictor
-
+# Material-Removal-Rate-Predictor
 ## Overview
 This project builds a machine learning model to predict the **Material Removal Rate (MRR) (mm³/min)** using a dataset containing various machining parameters. The model is trained using a **Random Forest Regressor**, and users can input machining parameters to get real-time predictions.
 
