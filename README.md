@@ -22,8 +22,8 @@ This project builds a machine learning model to predict the **Material Removal R
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mrr-predictor.git
-   cd mrr-predictor
+   git clone https://github.com/saipradyumnagoud/Material-Removal-Rate-Predictor.git
+   cd Material-Removal-Rate-Predictor
    ```
 2. Install dependencies:
    ```bash
@@ -50,6 +50,4 @@ Predicted Material Removal Rate: 5.67 mm³/min
 ## Contribution
 Feel free to fork this repository, create a feature branch, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
